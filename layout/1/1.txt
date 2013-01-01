@@ -1,0 +1,6 @@
+341,14,344,17,0,0,radar_blimp,16,16
+351,45,457,72,559,168,Play_button,16,16
+351,45,457,72,559,218,Create_character_button,16,16
+351,45,457,72,559,268,Options_button,16,16
+351,45,457,72,559,318,Quit_button,16,16
+left,top,right,bottom,location_x,location_y,name,xsize,ysize

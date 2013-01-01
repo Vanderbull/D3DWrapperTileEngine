@@ -1,0 +1,8 @@
+351,45,457,72,359,200,Border_ammo
+351,45,457,72,359,232,Border_ammo
+351,45,457,72,359,264,Border_ammo
+351,45,457,72,359,296,Border_ammo
+351,45,457,72,359,328,Border_ammo
+351,45,457,72,359,358,Border_ammo
+351,45,457,72,359,168,Border_ammo
+left,top,right,bottom,location_x,location_y,name

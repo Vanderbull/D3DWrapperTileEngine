@@ -1,0 +1,18 @@
+		cTile[0].Set_position(128,128,0);
+		cTile[0].Set_center(0,0,0);
+		cTile[0].Set_Texture(cTile_manager.lpGet_Texture(0));
+		cTile[0].Draw();
+		
+		detta ritar ctile på det absoluta platsen enligt fönstret, sen kan mna göra
+		enligt nedanstående variant för att få den att anpassa sig till draw_map
+		
+		cTile_manager.sSet_center(0,0,0);
+		cTile_manager.uiDistort(uiScroll_X, uiScroll_Y);
+		cTile_manager.Draw_map(uiScroll_X,uiScroll_Y, 5, 5, uiTexture_id);
+		cTile_manager.Draw(128,0,0);//draws grid node adjusted to draw_map
+		
+problem:
+
+just nu har vi ett problem med att när den ritar ut tiles så när man flyttar den aktiva tilen
+kommer den att ritas under de senare tilsen då de ritas ut efteråt. så måste fixa någon form
+av order på drawing av tilesen.

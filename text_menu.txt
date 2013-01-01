@@ -1,0 +1,6 @@
+390,205,Play
+390,235,Options
+390,265,Credits
+360,295,Create Player
+390,325,Quit
+x,y,default text

@@ -1,0 +1,1 @@
+Human,Elf,Giant,Gnome,Dwarf,Ogre,Yeti,Saris,Troll

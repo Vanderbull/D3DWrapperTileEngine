@@ -1,0 +1,15 @@
+Problem
+-------
+Att när man kör i fönster så om man resizar fönstret anpassar sig grafiken
+efter storleken på fönstret, detta kan få det att bli helt osymmteriskt.
+
+övrigt
+------
+se till så snap to grid låser de utsatta tilesen till spelplanen.
+
+cFont koden är felaktigt gjord, för att rita på samma yta som resten av
+grafiken så måste man ta och bara väälja en enda D3DXSPRITE ochdet är samma
+som m_lpSprite i DManagern.
+
+den ritar snap to grid även fast man inte är över spelplanen detta måste
+åtgärdas omgående så man inte kan placera spelare utanför.

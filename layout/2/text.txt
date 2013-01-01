@@ -1,0 +1,16 @@
+240,205,STY
+240,235,KRO
+240,265,STO
+240,295,INT
+240,330,KRA
+240,360,SKI
+240,390,KAR
+210,165, Stat Points Left
+560,250,Sex
+560,200,Alignment
+560,150,Race
+560,300,Guilds Allowed
+560,350,Weapon
+700,600,Save Char
+700,650,Cancel
+x,y,default text

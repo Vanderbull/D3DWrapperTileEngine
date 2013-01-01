@@ -1,0 +1,10 @@
+integers för de olika tilesen som man kan använda för kontroll
+av vart spelarna står ifall man har för många inom ett specifik område.
+
+3 - goal område
+4 - sideline område
+5 - scrimmage område
+0 - default allt som inte är angivet här vilket inte borde vara något
+
+sidelines kanske senare skall delas upp i olika delar beroende på vilken
+sida av spelplanen det ligger på.

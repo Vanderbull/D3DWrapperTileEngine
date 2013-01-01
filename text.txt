@@ -1,0 +1,15 @@
+240,205,Strength
+240,235,Intelligence
+240,265,Wisdom
+240,295,Constitution
+240,330,Charisma
+240,360,Dexterity
+210,165, Stat Points Left
+560,250,Sex
+560,200,Alignment
+560,150,Race
+560,300,Guilds Allowed
+560,350,Weapon
+700,600,Save Char
+700,650,Cancel
+x,y,default text

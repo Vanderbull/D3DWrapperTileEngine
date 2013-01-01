@@ -1,0 +1,22 @@
+Denna koden är för att öppna ett kod fönster till
+din windows applikation, den kan ta emot både
+printf och cout anrop för att skriva ut data
+från windows applikationen som man inte orkar
+ta till en massa font anrop och liknande.
+
+features
+--------
+efter lite testande så kom jag fram till
+att använda sig av cin.get() gör att
+man kan pausa applikationen på önskat ställe.
+
+detta betyder att man enkelt via consolen kan
+ta och ändra värden i spelet genom att bara
+köra en CIN >> <variabel>.
+
+kända buggar
+------------
+Den kraschar med xlocnum om man försöker
+skriva lite siffror med cout, så där
+blir man tvungen att använda sig av
+printf.

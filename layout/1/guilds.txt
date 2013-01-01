@@ -1,0 +1,1 @@
+Artisan,Warrior,Explorer,Thief,Barbarian,Warlock,Cleric
